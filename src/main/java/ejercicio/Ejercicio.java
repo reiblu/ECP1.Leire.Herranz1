@@ -17,5 +17,9 @@ public class Ejercicio {
     public void develop3() {
 
     }
+    
+    public void develop4() {
+
+    }
 
 }
