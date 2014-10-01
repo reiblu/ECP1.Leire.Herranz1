@@ -37,5 +37,9 @@ public class Ejercicio {
     public void release3() {
 
     }
+    
+    public void develop6() {
+
+    }
 
 }
