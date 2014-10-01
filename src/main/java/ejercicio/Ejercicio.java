@@ -46,4 +46,12 @@ public class Ejercicio {
 
     }
 
+    public void release4() {
+
+    }
+
+    public void release5() {
+
+    }
+
 }
