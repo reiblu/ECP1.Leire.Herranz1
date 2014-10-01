@@ -26,4 +26,8 @@ public class Ejercicio {
 
     }
 
+    public void release3() {
+
+    }
+
 }
