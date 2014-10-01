@@ -9,11 +9,11 @@ public class Ejercicio {
     public void develop1() {
 
     }
-    
+
     public void develop2() {
 
     }
-    
+
     public void develop3() {
 
     }
@@ -23,6 +23,18 @@ public class Ejercicio {
     }
     
     public void develop5() {
+
+    }
+
+    public void release1() {
+
+    }
+
+    public void release2() {
+
+    }
+
+    public void release3() {
 
     }
 
