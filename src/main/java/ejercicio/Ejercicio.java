@@ -6,4 +6,8 @@ public class Ejercicio {
 
     }
 
+    public void develop1() {
+
+    }
+
 }
