@@ -9,5 +9,9 @@ public class Ejercicio {
     public void develop1() {
 
     }
+    
+    public void develop2() {
+
+    }
 
 }
