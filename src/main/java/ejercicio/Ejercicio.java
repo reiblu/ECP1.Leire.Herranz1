@@ -30,4 +30,8 @@ public class Ejercicio {
 
     }
 
+    public void release4() {
+
+    }
+
 }
