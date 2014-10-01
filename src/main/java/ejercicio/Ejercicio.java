@@ -57,5 +57,9 @@ public class Ejercicio {
     public void develop8() {
 
     }
+    
+    public void develop9() {
+
+    }
 
 }
